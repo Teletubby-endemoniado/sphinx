@@ -1,4 +1,4 @@
-.. _tutorial:
+docs/requirements.txt _tutorial:
 
 ==================================
 Tutorial: Build your first project
